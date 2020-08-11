@@ -4,6 +4,8 @@ All files and my coursework for the coursera course [Applied Machine Learning](h
 
 Course completed: August 2020
 
+Here is a link to my [credential](https://www.coursera.org/account/accomplishments/certificate/BW8CR7GXBGQ3). 
+
 ## Capstone project
 The capstone project was to create a machine learning model for city blight in the US. The goal was to create a model that would predict if a blight violation fine would be paid. 
 
