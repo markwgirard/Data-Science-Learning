@@ -1,6 +1,6 @@
-#Applied Machine Learning in Python
+# Applied Machine Learning in Python
 
-All files and my coursework for the coursera course Applied Machine Learning in Python by the University of Michigan.
+All files and my coursework for the coursera course [Applied Machine Learning](https://www.coursera.org/learn/python-machine-learning) with Python by the University of Michigan.
 
 Course completed: August 2020
 
